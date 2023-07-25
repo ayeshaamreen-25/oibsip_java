@@ -78,15 +78,15 @@ public class OnlineExaminationSystem{
         // Add your MCQ selection logic here
         // Prompt the user to select answers for the MCQs
         System.out.println("Select the correct option for each question (A, B, C, or D):");
-        System.out.println("1. What is the capital of France?");
-        System.out.println("   A) Paris");
-        System.out.println("   B) London");
-        System.out.println("   C) Berlin");
-        System.out.println("   D) Madrid");
+        System.out.println("1. What is the capital of India?");
+        System.out.println("   A) Mumbai");
+        System.out.println("   B) Delhi");
+        System.out.println("   C) Chennai");
+        System.out.println("   D) Bangalore");
         System.out.print("Your answer: ");
         String answer1 = scanner.nextLine();
 
-        System.out.println("2. Which planet is known as the Red Planet?");
+        System.out.println("2. Which planet is known as the Biggest Planet?");
         System.out.println("   A) Mars");
         System.out.println("   B) Jupiter");
         System.out.println("   C) Venus");
